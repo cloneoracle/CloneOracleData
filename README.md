@@ -9,6 +9,7 @@ This project contains Code Clone Oracle Data. Several open source applications w
 
 A) CloneResults
 - This folder contains the methods which were deemed to be clones by manual analysis, and through the use of various existing clone detection tools include Simian, Nicad, MeCC and CCCD. 
+- The data is made available in several formats including html, xls and csv.
 
 
 B) sourcecode
